@@ -52,6 +52,7 @@ kotlin {
     }
 }
 
+
 android {
     namespace = "com.example.noteappkmm"
     compileSdk = 33
